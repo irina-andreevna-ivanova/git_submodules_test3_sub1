@@ -8,9 +8,7 @@ package a.b.c;
  * *******************************
  */
 public class Sub1Class1 {
-    // clone 0
+    // clone0
     // clone1
-    //
-    //
     // clone2
 }
